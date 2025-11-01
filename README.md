@@ -6,4 +6,7 @@ They are not covered by any license.  No warranty of fitness of any kind is prov
 - k.html is a web page that will produce a kalidescope rendition of an image and optionally an animated gif.
 
   Instructions:  Download k.html and open it with a browser.
-  
+
+Example:
+![animated gif](https://github.com/talkingrag/Flotsam/blob/main/kaleidoscope-animation%20(3).gif)
+
