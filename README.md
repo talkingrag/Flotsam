@@ -4,4 +4,6 @@ These are small programs of no special consequence, produced with the help of Go
 They are not covered by any license.  No warranty of fitness of any kind is provided. 
 
 - k.html is a web page that will produce a kalidescope rendition of an image and optionally an animated gif.
+
+  Instructions:  Download k.html and open it with a browser.
   
